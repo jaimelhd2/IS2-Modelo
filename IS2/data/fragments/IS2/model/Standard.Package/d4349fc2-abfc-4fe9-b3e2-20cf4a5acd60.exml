@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="is2" version="4">
+  <OBJECT>
+    <ID name="is2" mc="Standard.Package" uid="d4349fc2-abfc-4fe9-b3e2-20cf4a5acd60"/>
+    <PID name="IS2" mc="Standard.Project" uid="576e21ec-e697-4c1f-babd-b9edf920f743"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[is2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Empleados" mc="Standard.Class" uid="2a92dbf0-7e77-4494-8672-16e4d1b30e51"/>
+        <COMPID name="Pedidos" mc="Standard.Class" uid="85289930-79f0-45bf-8808-eb9a226db876"/>
+        <COMPID name="Clientes" mc="Standard.Class" uid="5d7393b4-b271-4d95-b844-e6ac1ae28887"/>
+        <COMPID name="Proveedor" mc="Standard.Class" uid="62018f86-373c-4ec7-bae8-765a6484a211"/>
+        <COMPID name="Articulo" mc="Standard.Class" uid="bc309364-a504-4b43-98fc-ee984025d7cd"/>
+        <COMPID name="Categoria" mc="Standard.Class" uid="c0f175b5-2e54-4b7a-bc57-066298764eb0"/>
+        <COMPID name="Ventas" mc="Standard.Class" uid="86fc7136-7851-431f-8817-76967814287d"/>
+        <COMPID name="Compras" mc="Standard.Class" uid="d20337b8-8a19-458d-9542-001d06705f3d"/>
+        <COMPID name="Ofertas" mc="Standard.Class" uid="50eadef8-6fe2-4760-8a2f-6134df58b8c4"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="is2 Class diagram" mc="Standard.ClassDiagram" uid="76de20d8-33b5-48e0-9f4e-6f90a747dcdd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
